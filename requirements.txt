@@ -1,5 +1,7 @@
 streamlit
 numpy
 Pillow
-opencv-python
+opencv-python-headless
 plotly
+gdown
+scikit-learn
