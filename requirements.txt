@@ -6,5 +6,5 @@ plotly
 gdown
 scikit-learn
 joblib
-keras
 tensorflow
+keras
