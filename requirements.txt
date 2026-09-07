@@ -4,4 +4,5 @@ Pillow
 opencv-python-headless
 plotly
 gdown
-scikit-learn
+tensorflow
+keras
